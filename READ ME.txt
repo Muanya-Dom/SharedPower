@@ -1,0 +1,9 @@
+**Only run the _generate_sp_database.py when there is no database present in the directory otherwise
+you will have duplate entries
+
+** Start the shared power program by running the _init_.py
+
+Thanks
+
+
+
